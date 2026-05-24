@@ -9,6 +9,8 @@ Demonstration Video:
 https://github.com/user-attachments/assets/a49ed84e-b5e3-4dcc-9fc5-1b3cf6d91b44
 
 
+<img width="1599" height="899" alt="a8999f90-a56a-4400-9ed2-8c7404b305f3" src="https://github.com/user-attachments/assets/1566296f-b2cc-48d5-82e9-7d0b303c399f" />
+
 
 💡 The system includes:  
 
