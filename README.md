@@ -4,7 +4,10 @@ Designed our own microcontroller on a Basys-3 FPGA and implemented a sorting sys
 
 Demonstration Video:
 
-https://github.com/user-attachments/assets/819953e4-dbb6-4cc9-8ec2-c8d7a1b7a4df
+
+
+https://github.com/user-attachments/assets/a49ed84e-b5e3-4dcc-9fc5-1b3cf6d91b44
+
 
 
 💡 The system includes:
