@@ -30,11 +30,5 @@ https://github.com/user-attachments/assets/a49ed84e-b5e3-4dcc-9fc5-1b3cf6d91b44
 
 The project involved designing ASM/FSM-based control logic, debugging multiple hardware interfaces, simulation and testing, and significantly improving our VHDL coding and system-level design skills.
 
-Contributers: 
-Zeina Abdelaal 
-Salma Ayman 
-Habiba Salem 
-Tamim Kassem 
-Farah Abdelaal
-Ahmed Fouad 
-Ahmed Shawki
+Contributers:  
+Zeina Abdelaal, Salma Ayman, Habiba Salem, Tamim Kassem, Farah Abdelaal, Ahmed Fouad, Ahmed Shawki
