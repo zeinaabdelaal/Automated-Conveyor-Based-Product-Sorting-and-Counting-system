@@ -1,7 +1,11 @@
 # Automated-Conveyor-Based-Product-Sorting-and-Counting-system
 
+Designed our own microcontroller on a Basys-3 FPGA and implemented a sorting system capable of detecting and categorizing objects in real time using hardware VHDL-based ASM/FSM control logic, all while also building the mechanical conveyor and sorting setup from scratch.
 
-Designed our own microcontroller and implemented an automated sorting system capable of detecting and categorizing objects in real time using digital hardware control.
+Demonstration Video:
+
+https://github.com/user-attachments/assets/819953e4-dbb6-4cc9-8ec2-c8d7a1b7a4df
+
 
 💡 The system includes:
 • Basys-3 FPGA, with control logic written in VHDL to manage sensor inputs, motor control, and sorting logic.
